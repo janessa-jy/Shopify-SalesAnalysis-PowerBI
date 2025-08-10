@@ -8,3 +8,69 @@ Customer Analysis on Shopify Sales Data
 This project analyse Shopify sales data in Power BI. It focuses on KPI metrics to identify key revenue and customer rentention potential.
 
 
+
+
+
+## 📊 Dataset Description
+
+- Admin GraphQL API ID:
+A globally unique identifier used by systems that support GraphQL APIs. This ID allows precise querying of specific records (like an order or product) within a backend system. It's generally not human-readable and is used programmatically.
+
+- Order Number:
+A unique sequential number or code assigned to each order placed by a customer. This number helps in tracking, referencing, and customer service queries. 
+
+- Billing Address City:
+The city listed in the billing address provided by the customer at checkout or registration. This is used for tax calculation, fraud detection, and record-keeping.
+
+- Billing Address Country:
+The country associated with the billing address. It can be useful for tax rules, payment gateway processing, and regional business reporting.
+
+- Billing Address First Name:
+The first name of the person  billing address. Often required for processing payments and generating invoices.
+
+- Billing Address Last Name:
+The last name (surname) of the person billing address. Combined with the first name, it provides full identification.
+
+- Billing Address Province:
+The province, state, or region as per the billing address.
+
+- Billing Address Zip:
+The postal code (ZIP code) of the billing address. 
+
+- CITY:
+field of "Billing Address City" location
+
+- Currency:
+The type of currency used in the transaction, represented in ISO format (e.g., USD for US Dollars, EUR for Euros).
+
+- Customer ID:
+A system-generated unique identifier for a customer. Used to link orders, communications, preferences, and order history to a specific customer.
+
+- Invoice Date:
+The date the invoice was created or finalized for the transaction. 
+
+- Gateway:
+The payment processing service used to complete the transaction. Examples include Stripe, PayPal, Razorpay, etc. This helps in reconciling payments and understanding transaction channels.
+
+- Product ID:
+A unique identifier for the product being purchased. This is used internally to track inventory, pricing, and product performance across sales.
+
+- Product Type:
+A classification or category of the product. For instance, it could be "Software," "Clothing," "Electronics".
+
+- Variant ID:
+Products may come in multiple variants (e.g., different sizes or colors). The Variant ID uniquely identifies a specific version of the product.
+
+- Quantity:
+The number of units of the product purchased in the order. Important for inventory management and sales volume analysis.
+
+- Subtotal Price:
+The total cost of all items before applying taxes, shipping charges, or discounts. It reflects the base cost of the order.
+
+- Total Price USD: 
+The total price paid, including taxes and possibly shipping, converted to USD (if the transaction was in another currency). Useful for standardizing financial reporting across currencies.
+
+- Total Tax:
+The total amount of tax (like VAT or GST) applied to the order. This is important for compliance and reporting in many regions.
+
+
