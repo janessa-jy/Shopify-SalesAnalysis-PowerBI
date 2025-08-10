@@ -114,4 +114,6 @@ The total amount of tax (like VAT or GST) applied to the order. This is importan
 <img width="1372" height="806" alt="ShopifyBI_2" src="https://github.com/user-attachments/assets/942a4796-848a-4856-8604-6fa9c42f8629" />
 
 
+## Key Insights
+
 
