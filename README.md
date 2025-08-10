@@ -116,4 +116,8 @@ The total amount of tax (like VAT or GST) applied to the order. This is importan
 
 ## Key Insights
 
+- Customer engagement and promotions can be done during 10am - 3pm where highest net sales reflected
+- majority customer uses shopify payment method over alternative paypal or amazon
+- Sales are more likely among product category like sports accessories 
+
 
