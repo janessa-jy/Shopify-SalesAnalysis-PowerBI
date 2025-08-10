@@ -104,5 +104,14 @@ The total amount of tax (like VAT or GST) applied to the order. This is importan
 - reflect customer engagement varies across different product categories.
 
 
+## PowerBI Dashboard
+
+
+<img width="1380" height="806" alt="ShopifyBI_1" src="https://github.com/user-attachments/assets/66f12952-bd9b-432b-adc2-5294df99c4c6" />
+
+
+
+<img width="1372" height="806" alt="ShopifyBI_2" src="https://github.com/user-attachments/assets/942a4796-848a-4856-8604-6fa9c42f8629" />
+
 
 
